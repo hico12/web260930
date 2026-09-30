@@ -37,3 +37,41 @@ h3{
   margin:10px;
   padding:5px;
 }
+
+#ml{
+  border:solid 3px black;
+}
+
+acticle[id="m2"]{
+  color:blue;
+}
+div::before{
+  content:'[영화소개]';  
+  font-weight:900;
+  color:darkgreen;
+}
+
+div::after{
+  content:' (더보기) ';
+  font-weight:italic;
+  color:darkgreen;
+}
+
+a{
+  text-decoration:none;
+  color:darkred;
+}
+
+a:visited{
+  color:orange;
+}
+
+a:hober{
+  background-color:white;
+  color:white;
+}
+
+a:active{
+  background-color:white;
+  color:white;
+}
