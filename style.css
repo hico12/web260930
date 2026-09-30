@@ -15,8 +15,8 @@ header , main ,footer{
 
 h1{
    
-   clolor:green;
-   backgound-color:light pink;
+   color:green;
+   background-color:lightpink;
    border:solid 2px red;
    /*width:90vw;*/
    text-align:center;
